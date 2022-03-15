@@ -52,9 +52,7 @@ module.exports = {
       name: 'GitHub',
       link: 'https://github.com/xilej',
     },
-    {
-     
-    },
+
   ],
 
   // This is a day.js-style datetime format string to format datetimes in the app. Ref to
