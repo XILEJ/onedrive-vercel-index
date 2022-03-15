@@ -39,7 +39,7 @@ module.exports = {
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
-  protectedRoutes: [],
+  protectedRoutes: ['/🌞 Private folder/学习资料'],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
   +email: 'mailto:solitude@moulejun.onmicrosoft.com',
@@ -50,7 +50,8 @@ module.exports = {
   links: [
     {
       name: 'GitHub',
-      link: 'https://github.com/xilej
+      link: 'https://github.com/xilej',
+    },
   ],
 
   // This is a day.js-style datetime format string to format datetimes in the app. Ref to
