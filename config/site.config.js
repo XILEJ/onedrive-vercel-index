@@ -11,7 +11,7 @@ module.exports = {
 
   // [OPTIONAL] This is the website icon to the left of the title inside the navigation bar. It should be placed under the
   // /public directory of your GitHub project (not your OneDrive folder!), and referenced here by its relative path to /public.
-  icon: '/icons/128.png',
+  icon: '/icons/favicon.png',
 
   // The name of your website. Present alongside your icon.
   title: "xilej's OneDrive",
@@ -34,9 +34,8 @@ module.exports = {
 
   // [OPTIONAL] The footer component of your website. You can write HTML here, but you need to escape double
   // quotes - changing " to \". You can write anything here, and if you like badges, generate some with https://shields.io
-  footer:
-    /'<a href="https://vercel.com/" target="_blank" rel="noopener noreferrer"><img style="display: inline-block" src="https://img.shields.io/badge/Vercel-black?style=flat&amp;logo=Vercel&amp;logoColor=white" alt="vercel"> </a>',
-
+   footer: '</center><script async src="https://cdn.jsdelivr.net/gh/xilej/Number-of-visitors/jilei.pure.mini.js"></script>  <span id="jilei_container_site_pv">本站总访问量<span id="jilei_value_site_pv"></span>次</span>  <span class="post-meta-divider">|</span>  <span id="jilei_container_site_uv">本站访客数<span id="jilei_value_site_uv"></span>人</span></p></center></center><a href="https://vercel.com/" target="_blank" rel="noopener noreferrer"><img style="display: inline-block" src="https://img.shields.io/badge/Vercel-black?style=flat&logo=Vercel&logoColor=white" alt="vercel" /> </a> <a href="https://github.com/spencerwooo/onedrive-vercel-index" target="_blank" rel="noopener noreferrer"><img style="display: inline-block" src="https://img.shields.io/badge/onedrive--vercel--index-2C68C3?style=flat&logo=microsoft-onedrive&logoColor=white" alt="github" /> </a> <a target="_blank" href="https://nextjs.org/"><img style="display: inline-block" src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white" alt="nextjs" /></a></center>',
+  
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
   protectedRoutes: ['/🌞 Private folder/学习资料',],
