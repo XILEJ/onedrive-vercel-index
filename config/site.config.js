@@ -34,14 +34,14 @@ module.exports = {
 
   // [OPTIONAL] The footer component of your website. You can write HTML here, but you need to escape double
   // quotes - changing " to \". You can write anything here, and if you like badges, generate some with https://shields.io
-   footer: '<center><iframe frameborder=0  height=20px marginwidth=0 scrolling=no src="https://v1.hitokoto.cn/"></iframe></center><center><iframe frameborder=0  height=25px marginwidth=0 scrolling=no src="https://busuanzibackendself.moulejun.repl.co/busuanzi.pure.mini.js/"></iframe></center>Powered by: <a href="https://vercel.com/" target="_blank" rel="noopener noreferrer"><img style="display: inline-block" src="https://img.shields.io/badge/Replit-black?style=flat&logo=Replit&logoColor=white" alt="vercel" /> </a> <a href="https://github.com/spencerwooo/onedrive-vercel-index" target="_blank" rel="noopener noreferrer"><img style="display: inline-block" src="https://img.shields.io/badge/onedrive--vercel--index-2C68C3?style=flat&logo=microsoft-onedrive&logoColor=white" alt="github" /> </a> <a target="_blank" href="https://nextjs.org/"><img style="display: inline-block" src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white" alt="nextjs" /></a></center>',
+   footer: '<center><script src="https://v1.hitokoto.cn/?encode=js&select=%23hitokoto" defer></script></center><center><iframe frameborder=0  height=25px marginwidth=0 scrolling=no src="https://busuanzibackendself.moulejun.repl.co/busuanzi.pure.mini.js/"></iframe></center>Powered by: <a href="https://vercel.com/" target="_blank" rel="noopener noreferrer"><img style="display: inline-block" src="https://img.shields.io/badge/Replit-black?style=flat&logo=Replit&logoColor=white" alt="vercel" /> </a> <a href="https://github.com/spencerwooo/onedrive-vercel-index" target="_blank" rel="noopener noreferrer"><img style="display: inline-block" src="https://img.shields.io/badge/onedrive--vercel--index-2C68C3?style=flat&logo=microsoft-onedrive&logoColor=white" alt="github" /> </a> <a target="_blank" href="https://nextjs.org/"><img style="display: inline-block" src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white" alt="nextjs" /></a></center>',
   
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
   protectedRoutes: ['/🌞 Private folder/学习资料',],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
-  email: 'mailto:solitude@moulejun.onmicrosoft.com',
+  email: 'mailto:1043865083@qq.com',
 
   // [OPTIONAL] This is an array of names and links for setting your social information and links.
   // In the latest update, all brand icons inside font awesome is supported and the icon to render is based on the name
